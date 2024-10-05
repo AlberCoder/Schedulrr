@@ -9,6 +9,7 @@ export default function NotFound() {
       <a href="/" className="mt-6 bg-blue-500 text-white px-6 py-3 rounded-md shadow-md hover:bg-blue-600 text-center">
         Go Back Home
       </a>
+            
       </div>
     );
   }
