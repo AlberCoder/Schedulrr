@@ -15,7 +15,7 @@ const features = [
   {
     icon: Clock,
     title: "Manage Availability",
-    description: "Define your availability to streamline scheduling",
+    description: "Define your availability for scheduling",
   },
   {
     icon: LinkIcon,
